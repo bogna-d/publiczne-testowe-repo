@@ -1,0 +1,25 @@
+body {
+    background-color: powderblue;
+  }
+
+.aaa {
+    color: brown;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.navigation {
+    color: orange;
+}
+
+footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+}
+
+input {
+    border-color: orchid;
+    border-width: 10px;
+}
